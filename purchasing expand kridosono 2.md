@@ -3,7 +3,7 @@
 | Suplier        | Nama Barang                      | Qty |        Harga Satuan |           Total Harga | Keterangan                                          |
 | -------------- | -------------------------------- | :-: | ------------------: | --------------------: | --------------------------------------------------- |
 | PT.IKUBARU     | Supermicro Superserver 2u 4 Node |  1  |     Rp189.000.000,- |       Rp189.000.000,- | Tambahan Compute Kridosono dari total 3 compute     |
-| PT.IKUBARU     | Proc E5-2660 v4                  |  4  |         Rp200.000,- |           Rp800.000,- | Mengganti Prosesor node storage 7 dan node 8        |
+| PT.IKUBARU     | Proc E5-2690 v2                  |  4  |       Rp4.500.000,- |        Rp18.000.000,- | Mengganti Prosesor node storage 7 dan node 8        |
 | PT.IKUBARU     | Ram 16GB, ddr3, ECC              | 39  |         Rp500.000,- |        Rp19.500.000,- | Menambah Memory Ceph menjadi 208GB per Node Storage |
 | PT.IKUBARU     | Chasing Supermicro 2U            |  1  |      Rp17.000.000,- |        Rp17.000.000,- | Untuk Node storage Ceph  24 slot SSD 2,5 inch       |
 | PT.BINTANG MAS | SSD 1TB 860 EVO MZ-76E1T0        |  6  |       Rp2.180.000,- |        Rp13.080.000,- | Untuk OS Node Storage tanpa raid1, per node 2pcs    |
