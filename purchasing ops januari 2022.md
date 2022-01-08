@@ -1,4 +1,4 @@
-**Purchasing Ops Bulan Januari 2022**
+**Purchasing Bulan Januari 2022**
 
 | Suplier    | Nama Barang             | Qty |        Harga Satuan |           Total Harga | Keterangan                                |
 | ---------- | ----------------------- | :-: | ------------------: | --------------------: | ----------------------------------------- |
