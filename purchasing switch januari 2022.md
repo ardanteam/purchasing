@@ -13,3 +13,4 @@
 - Estimasi barang sampai 30 hari setelah di lakukan pembayaran karena ada produk yang import dari China melalui jalur laut
 - Untuk Pajak pembayaran ke PT.IKUBARU
 - Harga dapat berubah sewaktu-waktu
+- Total tagihan di atas sudah termasuk PPN 10% dan ongkir ke Jogja
