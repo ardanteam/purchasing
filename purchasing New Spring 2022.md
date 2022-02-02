@@ -9,13 +9,15 @@
 | PT.IKUBARU     | AOC-STGN-i2S                     |  3  |       Rp2.000.000,- |         Rp6.000.000,- | Card 10 G per node 1 pcs                            |
 | PT.IKUBARU     | Kabel 10G DAC                    |  4  |         Rp200.000,- |           Rp800.000,- | Kabel 10G per node 2pcs 2Meter (Merk Lokal).        |
 | PT.IKUBARU     | Raid card MR SAS 9270GV-8i       |  3  |       Rp4.000.000,- |        Rp12.000.000,- | Raid Card untuk Node Storage                        |
+| PT.IKUBARU     | Dell S4810                       |  1  |      Rp17.000.000,- |        Rp17.000.000,- | Untuk Switch 10G                                    |
+| PT.IKUBARU     | Dell s60                         |  2  |       Rp9.000.000,- |        Rp18.000.000,- | Untuk Switch 1G                                     |
 | PT.BINTANG MAS | SSD 240 GB EVO                   |  6  |       Rp1.000.000,- |         Rp6.000.000,- | Os Node Storage Raid1 Pernode 2 pcs                 |
 | PT.BINTANG MAS | SSD 1TB 860 EVO MZ-76E1T0        |  4  |       Rp2.180.000,- |         Rp8.720.000,- | Untuk OS Compute tanpa raid1, per node 1pcs         |
 | PT.BINTANG MAS | SSD 2TB 860 EVO MZ-76E2T0        | 72  |       Rp4.100.000,- |       Rp295.200.000,- | Untuk 3 node Storage Ceph, per node 24 ssd          |
-|                |                                  |     |         Total Harga |       Rp592.220.000,- |                                                     |
-|                |                                  |     |         Pajak  10 % |        Rp59.222.000,- |                                                     |
+|                |                                  |     |         Total Harga |       Rp627.220.000,- |                                                     |
+|                |                                  |     |         Pajak  10 % |        Rp62.722.000,- |                                                     |
 |                |                                  |     | Total Ongkir (1 kg) |           Rp500.000,- |                                                     |
-|                |                                  |     | ***Total Tagihan*** | ***Rp651.942.000,-*** |                                                     |
+|                |                                  |     | ***Total Tagihan*** | ***Rp690.442.000,-*** |                                                     |
 
 
 # SPLIT PURCHASING
@@ -60,9 +62,12 @@ Juli 2022
 | Suplier        | Nama Barang               | Qty |        Harga Satuan |           Total Harga | Keterangan                               |
 | -------------- | ------------------------- | :-: | ------------------: | --------------------: | ---------------------------------------- |
 | PT.BINTANG MAS | SSD 2TB 860 EVO MZ-76E2T0 | 30  |       Rp4.100.000,- |       Rp123.000.000,- | Storage Tahap Ketiga Full 3 Node Storage |
-|                |                           |     |         Total Harga |       Rp123.000.000,- |                                          |
-|                |                           |     |         Pajak  10 % |        Rp12.300.000,- |                                          |
-|                |                           |     | ***Total Tagihan*** | ***Rp135.300.000,-*** |                                          |
+| PT.IKUBARU     | Dell S4810                |  1  |      Rp17.000.000,- |        Rp17.000.000,- | Untuk Switch 10G                         |
+| PT.IKUBARU     | Dell s60                  |  2  |       Rp9.000.000,- |        Rp18.000.000,- | Untuk Switch 1G                          |
+|                |                           |     |         Total Harga |       Rp158.000.000,- |                                          |
+|                |                           |     |         Pajak  10 % |        Rp15.800.000,- |                                          |
+|                |                           |     | Total Ongkir (1 kg) |           Rp500.000,- |                                          |
+|                |                           |     | ***Total Tagihan*** | ***Rp174.300.000,-*** |                                          |
 
 
 ***Keterangan :***
