@@ -3,6 +3,7 @@
 | Suplier        | Nama Barang                      | Qty |        Harga Satuan |           Total Harga | Keterangan                                          |
 | -------------- | -------------------------------- | :-: | ------------------: | --------------------: | --------------------------------------------------- |
 | PT.IKUBARU     | Supermicro Superserver 2u 4 Node |  1  |     Rp189.000.000,- |       Rp189.000.000,- | Compute Pertama New Spring dari total 3 compute     |
+| PT.IKUBARU     | Dell R630, dual E5-2620v3        |  2  |      Rp13.000.000,- |        Rp26.000.000,- | Controller dan Pfsense New Spring                   |
 | PT.IKUBARU     | Proc E5-2690 v2                  |  6  |       Rp4.500.000,- |        Rp27.000.000,- | Mengganti Prosesor node storage 1, 2 dan 3          |
 | PT.IKUBARU     | Ram 16GB, ddr3, ECC              | 39  |         Rp500.000,- |        Rp19.500.000,- | Menambah Memory Ceph menjadi 208GB per Node Storage |
 | PT.IKUBARU     | AOC-STGN-i2S                     |  3  |       Rp2.000.000,- |         Rp6.000.000,- | Card 10 G per node 1 pcs                            |
@@ -11,10 +12,10 @@
 | PT.BINTANG MAS | SSD 240 GB EVO                   |  6  |       Rp1.000.000,- |         Rp6.000.000,- | Os Node Storage Raid1 Pernode 2 pcs                 |
 | PT.BINTANG MAS | SSD 1TB 860 EVO MZ-76E1T0        |  4  |       Rp2.180.000,- |         Rp8.720.000,- | Untuk OS Compute tanpa raid1, per node 1pcs         |
 | PT.BINTANG MAS | SSD 2TB 860 EVO MZ-76E2T0        | 72  |       Rp4.100.000,- |       Rp295.200.000,- | Untuk 3 node Storage Ceph, per node 24 ssd          |
-|                |                                  |     |         Total Harga |       Rp564.220.000,- |                                                     |
-|                |                                  |     |         Pajak  10 % |        Rp56.422.000,- |                                                     |
+|                |                                  |     |         Total Harga |       Rp592.220.000,- |                                                     |
+|                |                                  |     |         Pajak  10 % |        Rp59.222.000,- |                                                     |
 |                |                                  |     | Total Ongkir (1 kg) |           Rp500.000,- |                                                     |
-|                |                                  |     | ***Total Tagihan*** | ***Rp621.142.000,-*** |                                                     |
+|                |                                  |     | ***Total Tagihan*** | ***Rp651.942.000,-*** |                                                     |
 
 
 # SPLIT PURCHASING
@@ -49,9 +50,10 @@ Juni 2022
 | Suplier        | Nama Barang               | Qty |        Harga Satuan |           Total Harga | Keterangan                             |
 | -------------- | ------------------------- | :-: | ------------------: | --------------------: | -------------------------------------- |
 | PT.BINTANG MAS | SSD 2TB 860 EVO MZ-76E2T0 | 30  |       Rp4.100.000,- |       Rp123.000.000,- | Storage Tahap Kedua ssd 3 Node Storage |
-|                |                           |     |         Total Harga |       Rp123.000.000,- |                                        |
-|                |                           |     |         Pajak  10 % |        Rp12.300.000,- |                                        |
-|                |                           |     | ***Total Tagihan*** | ***Rp135.300.000,-*** |                                        |
+| PT.IKUBARU     | Dell R630, dual E5-2620v3 |  2  |      Rp13.000.000,- |        Rp26.000.000,- | Controller dan Pfsense New Spring      |
+|                |                           |     |         Total Harga |       Rp151.000.000,- |                                        |
+|                |                           |     |         Pajak  10 % |        Rp15.100.000,- |                                        |
+|                |                           |     | ***Total Tagihan*** | ***Rp166.100.000,-*** |                                        |
 
 
 Juli 2022
