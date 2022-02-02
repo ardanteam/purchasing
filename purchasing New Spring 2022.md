@@ -16,8 +16,8 @@
 | PT.BINTANG MAS | SSD 2TB 860 EVO MZ-76E2T0        | 72  |       Rp4.100.000,- |       Rp295.200.000,- | Untuk 3 node Storage Ceph, per node 24 ssd          |
 |                |                                  |     |         Total Harga |       Rp627.220.000,- |                                                     |
 |                |                                  |     |         Pajak  10 % |        Rp62.722.000,- |                                                     |
-|                |                                  |     | Total Ongkir (1 kg) |         Rp1.000.000,- |                                                     |
-|                |                                  |     | ***Total Tagihan*** | ***Rp690.942.000,-*** |                                                     |
+|                |                                  |     | Total Ongkir (1 kg) |         Rp1.500.000,- |                                                     |
+|                |                                  |     | ***Total Tagihan*** | ***Rp691.442.000,-*** |                                                     |
 
 
 # SPLIT PURCHASING
