@@ -1,4 +1,4 @@
-**Purchasing New Spring Bulan 2022**
+**Purchasing New Spring Tahun 2022**
 
 | Suplier        | Nama Barang                      | Qty |        Harga Satuan |           Total Harga | Keterangan                                          |
 | -------------- | -------------------------------- | :-: | ------------------: | --------------------: | --------------------------------------------------- |
