@@ -72,7 +72,7 @@ Juli 2022
 
 ***Keterangan :***
 - Rangkaian New Spring terdiri dari 1 compute(4 node), 3 Node Storage, 1 Controller, 2 Switch 1G dan 1 Switch 10G,
-- Tambahan untuk sisi network 1 pfsense, 1 mikrotik serta, 1 switch 10G dan 2 switch 1G,
+- Tambahan untuk sisi network 1 pfsense dan 1 mikrotik,
 - Plan Purchasing total dan di split perbulan,
 - Estimasi barang sampai 30 hari untuk suplier PT.IKUBARU setelah di lakukan pembayaran karena ada produk yang import dari China melalui jalur laut,
 - Untuk Pajak pembayaran ke PT.IKUBARU dan PT.BINTANG MAS,
