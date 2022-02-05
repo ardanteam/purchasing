@@ -14,10 +14,17 @@
 | PT.BINTANG MAS | SSD 240 GB EVO                   |  6  |       Rp1.000.000,- |         Rp6.000.000,- | Os Node Storage Raid1 Pernode 2 pcs                 |
 | PT.BINTANG MAS | SSD 1TB 860 EVO MZ-76E1T0        |  4  |       Rp2.180.000,- |         Rp8.720.000,- | Untuk OS Compute tanpa raid1, per node 1pcs         |
 | PT.BINTANG MAS | SSD 2TB 860 EVO MZ-76E2T0        | 72  |       Rp4.100.000,- |       Rp295.200.000,- | Untuk 3 node Storage Ceph, per node 24 ssd          |
+<<<<<<< HEAD
 |                |                                  |     |         Total Harga |       Rp625.220.000,- |                                                     |
 |                |                                  |     |         Pajak  10 % |        Rp62.522.000,- |                                                     |
 |                |                                  |     | Total Ongkir (1 kg) |         Rp1.500.000,- |                                                     |
 |                |                                  |     | ***Total Tagihan*** | ***Rp689.242.000,-*** |                                                     |
+=======
+|                |                                  |     |         Total Harga |       Rp627.220.000,- |                                                     |
+|                |                                  |     |         Pajak  10 % |        Rp62.722.000,- |                                                     |
+|                |                                  |     | Total Ongkir (1 kg) |         Rp1.500.000,- |                                                     |
+|                |                                  |     | ***Total Tagihan*** | ***Rp691.442.000,-*** |                                                     |
+>>>>>>> d7c7774890846ce9d11f618f28c44bf5a9714cc4
 
 
 # SPLIT PURCHASING
