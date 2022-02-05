@@ -14,10 +14,10 @@
 | PT.BINTANG MAS | SSD 240 GB EVO                   |  6  |       Rp1.000.000,- |         Rp6.000.000,- | Os Node Storage Raid1 Pernode 2 pcs                 |
 | PT.BINTANG MAS | SSD 1TB 860 EVO MZ-76E1T0        |  4  |       Rp2.180.000,- |         Rp8.720.000,- | Untuk OS Compute tanpa raid1, per node 1pcs         |
 | PT.BINTANG MAS | SSD 2TB 860 EVO MZ-76E2T0        | 72  |       Rp4.100.000,- |       Rp295.200.000,- | Untuk 3 node Storage Ceph, per node 24 ssd          |
-|                |                                  |     |         Total Harga |       Rp627.220.000,- |                                                     |
-|                |                                  |     |         Pajak  10 % |        Rp62.722.000,- |                                                     |
-|                |                                  |     | Total Ongkir (1 kg) |           Rp500.000,- |                                                     |
-|                |                                  |     | ***Total Tagihan*** | ***Rp690.442.000,-*** |                                                     |
+|                |                                  |     |         Total Harga |       Rp625.220.000,- |                                                     |
+|                |                                  |     |         Pajak  10 % |        Rp62.522.000,- |                                                     |
+|                |                                  |     | Total Ongkir (1 kg) |         Rp1.500.000,- |                                                     |
+|                |                                  |     | ***Total Tagihan*** | ***Rp689.242.000,-*** |                                                     |
 
 
 # SPLIT PURCHASING
@@ -41,7 +41,7 @@ Maret 2022
 | PT.IKUBARU     | Raid card MR SAS 9270GV-8i |  3  |       Rp4.000.000,- |        Rp12.000.000,- | Raid Card untuk Node Storage                        |
 | PT.BINTANG MAS | SSD 240 GB EVO             |  6  |       Rp1.000.000,- |         Rp6.000.000,- | Os Node Storage Raid1 Pernode 2 pcs                 |
 | PT.BINTANG MAS | SSD 1TB 860 EVO MZ-76E1T0  |  4  |       Rp2.180.000,- |         Rp8.720.000,- | Untuk OS Compute tanpa raid1, per node 1pcs         |
-| PT.BINTANG MAS | SSD 2TB 860 EVO MZ-76E2T0  | 12  |       Rp4.100.000,- |        Rp49.200.000,- | Storage Tahap pertama                               |
+| PT.BINTANG MAS | SSD 2TB 860 EVO MZ-76E2T0  | 12  |       Rp4.100.000,- |        Rp49.200.000,- | Storage Tahap pertama  3 Node Storage               |
 |                |                            |     |         Total Harga |       Rp129.220.000,- |                                                     |
 |                |                            |     |         Pajak  10 % |        Rp12.922.000,- |                                                     |
 |                |                            |     | Total Ongkir (1 kg) |           Rp500.000,- |                                                     |
@@ -51,28 +51,39 @@ Maret 2022
 Juni 2022
 | Suplier        | Nama Barang               | Qty |        Harga Satuan |           Total Harga | Keterangan                             |
 | -------------- | ------------------------- | :-: | ------------------: | --------------------: | -------------------------------------- |
-| PT.BINTANG MAS | SSD 2TB 860 EVO MZ-76E2T0 | 30  |       Rp4.100.000,- |       Rp123.000.000,- | Storage Tahap Kedua ssd 3 Node Storage |
 | PT.IKUBARU     | Dell R630, dual E5-2620v3 |  2  |      Rp13.000.000,- |        Rp26.000.000,- | Controller dan Pfsense New Spring      |
-|                |                           |     |         Total Harga |       Rp151.000.000,- |                                        |
-|                |                           |     |         Pajak  10 % |        Rp15.100.000,- |                                        |
-|                |                           |     | ***Total Tagihan*** | ***Rp166.100.000,-*** |                                        |
+| PT.IKUBARU     | Dell S4810                |  1  |      Rp17.000.000,- |        Rp17.000.000,- | Untuk Switch 10G                       |
+| PT.IKUBARU     | Dell s60                  |  2  |       Rp9.000.000,- |        Rp18.000.000,- | Untuk Switch 1G                        |
+| PT.BINTANG MAS | SSD 2TB 860 EVO MZ-76E2T0 | 20  |       Rp4.100.000,- |        Rp82.000.000,- | Storage Tahap Kedua ssd 3 Node Storage |
+|                |                           |     |         Total Harga |       Rp143.000.000,- |                                        |
+|                |                           |     |         Pajak  10 % |        Rp14.300.000,- |                                        |
+|                |                           |     | Total Ongkir (1 kg) |           Rp500.000,- |                                        |
+|                |                           |     | ***Total Tagihan*** | ***Rp157.800.000,-*** |                                        |
 
 
 Juli 2022
-| Suplier        | Nama Barang               | Qty |        Harga Satuan |           Total Harga | Keterangan                               |
-| -------------- | ------------------------- | :-: | ------------------: | --------------------: | ---------------------------------------- |
-| PT.BINTANG MAS | SSD 2TB 860 EVO MZ-76E2T0 | 30  |       Rp4.100.000,- |       Rp123.000.000,- | Storage Tahap Ketiga Full 3 Node Storage |
-| PT.IKUBARU     | Dell S4810                |  1  |      Rp17.000.000,- |        Rp17.000.000,- | Untuk Switch 10G                         |
-| PT.IKUBARU     | Dell s60                  |  2  |       Rp9.000.000,- |        Rp18.000.000,- | Untuk Switch 1G                          |
-|                |                           |     |         Total Harga |       Rp158.000.000,- |                                          |
-|                |                           |     |         Pajak  10 % |        Rp15.800.000,- |                                          |
-|                |                           |     | Total Ongkir (1 kg) |           Rp500.000,- |                                          |
-|                |                           |     | ***Total Tagihan*** | ***Rp174.300.000,-*** |                                          |
+| Suplier        | Nama Barang               | Qty |        Harga Satuan |          Total Harga | Keterangan                               |
+| -------------- | ------------------------- | :-: | ------------------: | -------------------: | ---------------------------------------- |
+| PT.BINTANG MAS | SSD 2TB 860 EVO MZ-76E2T0 | 20  |       Rp4.100.000,- |       Rp82.000.000,- | Memenuhi Storage tahap 1, 3 Node Storage |
+|                |                           |     |         Total Harga |       Rp82.000.000,- |                                          |
+|                |                           |     |         Pajak  10 % |        Rp8.200.000,- |                                          |
+|                |                           |     | Total Ongkir (1 kg) |                Rp0,- |                                          |
+|                |                           |     | ***Total Tagihan*** | ***Rp90.200.000,-*** |                                          |
+
+
+Agustus 2022
+| Suplier        | Nama Barang               | Qty |        Harga Satuan |          Total Harga | Keterangan                               |
+| -------------- | ------------------------- | :-: | ------------------: | -------------------: | ---------------------------------------- |
+| PT.BINTANG MAS | SSD 2TB 860 EVO MZ-76E2T0 | 20  |       Rp4.100.000,- |       Rp82.000.000,- | Memenuhi Storage tahap 2, 3 Node Storage |
+|                |                           |     |         Total Harga |       Rp82.000.000,- |                                          |
+|                |                           |     |         Pajak  10 % |        Rp8.200.000,- |                                          |
+|                |                           |     | Total Ongkir (1 kg) |                Rp0,- |                                          |
+|                |                           |     | ***Total Tagihan*** | ***Rp90.200.000,-*** |                                          |
 
 
 ***Keterangan :***
-- Rangkaian New Spring terdiri dari 1 compute(4 node), 3 Node Storage, 1 Controller, 2 Switch 1G dan 1 Switch 10G,
-- Tambahan untuk sisi network 1 pfsense, 1 mikrotik serta, 1 switch 10G dan 2 switch 1G,
+- Rangkaian New Spring terdiri dari 1 mesin compute(4 node), 3 Node Storage, 1 Controller,
+- Untuk sisi network 1 pfsense, 1 mikrotik serta, 1 switch 10G dan 2 switch 1G,
 - Plan Purchasing total dan di split perbulan,
 - Estimasi barang sampai 30 hari untuk suplier PT.IKUBARU setelah di lakukan pembayaran karena ada produk yang import dari China melalui jalur laut,
 - Untuk Pajak pembayaran ke PT.IKUBARU dan PT.BINTANG MAS,
