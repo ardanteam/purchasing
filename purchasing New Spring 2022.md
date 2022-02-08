@@ -13,12 +13,12 @@
 | PT.IKUBARU     | Dell s60                         |  2  |       Rp9.000.000,- |        Rp18.000.000,- | Untuk Switch 1G                                     |
 | PT.BINTANG MAS | SSD 240 GB EVO                   |  6  |       Rp1.000.000,- |         Rp6.000.000,- | Os Node Storage Raid1 Pernode 2 pcs                 |
 | PT.BINTANG MAS | SSD 1TB 860 EVO MZ-76E1T0        |  4  |       Rp2.180.000,- |         Rp8.720.000,- | Untuk OS Compute tanpa raid1, per node 1pcs         |
-| PT.BINTANG MAS | SSD 2TB 860 EVO MZ-76E2T0        | 21  |       Rp4.100.000,- |        Rp86.100.000,- | Untuk 3 node Storage Ceph, per node 7ssd            |
-|                |                                  |     |         Total Harga |       Rp463.520.000,- |                                                     |
-|                |                                  |     |         Pajak  10 % |        Rp46.352.000,- |                                                     |
-|                |                                  |     | Total Ongkir (1 kg) |         Rp1.500.000,- |                                                     |
-|                |                                  |     | ***Total Tagihan*** | ***Rp511.372.000,-*** |                                                     |
-
+| PT.BINTANG MAS | SSD 2TB 860 EVO MZ-76E2T0        | 72  |       Rp4.100.000,- |       Rp295.200.000,- | Untuk 3 node Storage Ceph, per node 24ssd           |
+|                |                                  |     |         Total Harga |       Rp672.620.000,- |                                                     |
+|                |                                  |     |         Pajak  10 % |        Rp67.262.000,- |                                                     |
+|                |                                  |     | Total Ongkir (1 kg) |         Rp1.500.000,- |                             S                        |
+|                |                                  |     | ***Total Tagihan*** | ***Rp741.382.000,-*** |                                                     |
+S
 
 # SPLIT PURCHASING
 Februari 2022
