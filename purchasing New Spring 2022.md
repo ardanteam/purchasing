@@ -41,7 +41,7 @@ Maret 2022
 | PT.IKUBARU     | Raid card MR SAS 9270GV-8i |  3  |       Rp4.000.000,- |        Rp12.000.000,- | Raid Card untuk Node Storage                        |
 | PT.BINTANG MAS | SSD 240 GB EVO             |  6  |       Rp1.000.000,- |         Rp6.000.000,- | Os Node Storage Raid1 Pernode 2 pcs                 |
 | PT.BINTANG MAS | SSD 1TB 860 EVO MZ-76E1T0  |  4  |       Rp2.180.000,- |         Rp8.720.000,- | Untuk OS Compute tanpa raid1, per node 1pcs         |
-| PT.BINTANG MAS | SSD 2TB 860 EVO MZ-76E2T0  | 12  |       Rp4.100.000,- |        Rp49.200.000,- | Storage Tahap pertama                               |
+| PT.BINTANG MAS | SSD 2TB 860 EVO MZ-76E2T0  |  12  |       Rp4.100.000,- |        Rp49.200.000,- | Storage Tahap pertama                               |
 |                |                            |     |         Total Harga |       Rp139.220.000,- |                                                     |
 |                |                            |     |         Pajak  10 % |        Rp13.922.000,- |                                                     |
 |                |                            |     | Total Ongkir (1 kg) |           Rp500.000,- |                                                     |
