@@ -13,26 +13,12 @@
 | PT.IKUBARU     | Dell s60                         |  2  |       Rp9.000.000,- |        Rp18.000.000,- | Untuk Switch 1G                                     |
 | PT.BINTANG MAS | SSD 240 GB EVO                   |  6  |       Rp1.000.000,- |         Rp6.000.000,- | Os Node Storage Raid1 Pernode 2 pcs                 |
 | PT.BINTANG MAS | SSD 1TB 860 EVO MZ-76E1T0        |  4  |       Rp2.180.000,- |         Rp8.720.000,- | Untuk OS Compute tanpa raid1, per node 1pcs         |
-<<<<<<< HEAD
-| PT.BINTANG MAS | SSD 2TB 860 EVO MZ-76E2T0        | 72  |       Rp4.100.000,- |       Rp295.200.000,- | Untuk 3 node Storage Ceph, per node 24 ssd          |
-<<<<<<< HEAD
-|                |                                  |     |         Total Harga |       Rp625.220.000,- |                                                     |
-|                |                                  |     |         Pajak  10 % |        Rp62.522.000,- |                                                     |
-|                |                                  |     | Total Ongkir (1 kg) |         Rp1.500.000,- |                                                     |
-|                |                                  |     | ***Total Tagihan*** | ***Rp689.242.000,-*** |                                                     |
-=======
-|                |                                  |     |         Total Harga |       Rp627.220.000,- |                                                     |
-|                |                                  |     |         Pajak  10 % |        Rp62.722.000,- |                                                     |
-|                |                                  |     | Total Ongkir (1 kg) |         Rp1.500.000,- |                                                     |
-|                |                                  |     | ***Total Tagihan*** | ***Rp691.442.000,-*** |                                                     |
->>>>>>> d7c7774890846ce9d11f618f28c44bf5a9714cc4
-=======
 | PT.BINTANG MAS | SSD 2TB 860 EVO MZ-76E2T0        | 72  |       Rp4.100.000,- |       Rp295.200.000,- | Untuk 3 node Storage Ceph, per node 24ssd           |
 |                |                                  |     |         Total Harga |       Rp672.620.000,- |                                                     |
 |                |                                  |     |         Pajak  10 % |        Rp67.262.000,- |                                                     |
 |                |                                  |     | Total Ongkir (1 kg) |         Rp1.500.000,- |                                                     |
 |                |                                  |     | ***Total Tagihan*** | ***Rp741.382.000,-*** |                                                     |
->>>>>>> 448bc7c70b3d23685677ca72a6c31931579adfbe
+
 
 
 # SPLIT PURCHASING
@@ -56,15 +42,9 @@ Maret 2022
 | PT.IKUBARU     | Raid card MR SAS 9270GV-8i |  3  |       Rp4.000.000,- |        Rp12.000.000,- | Raid Card untuk Node Storage                        |
 | PT.BINTANG MAS | SSD 240 GB EVO             |  6  |       Rp1.000.000,- |         Rp6.000.000,- | Os Node Storage Raid1 Pernode 2 pcs                 |
 | PT.BINTANG MAS | SSD 1TB 860 EVO MZ-76E1T0  |  4  |       Rp2.180.000,- |         Rp8.720.000,- | Untuk OS Compute tanpa raid1, per node 1pcs         |
-<<<<<<< HEAD
-| PT.BINTANG MAS | SSD 2TB 860 EVO MZ-76E2T0  | 12  |       Rp4.100.000,- |        Rp49.200.000,- | Storage Tahap pertama  3 Node Storage               |
-|                |                            |     |         Total Harga |       Rp129.220.000,- |                                                     |
-|                |                            |     |         Pajak  10 % |        Rp12.922.000,- |                                                     |
-=======
-| PT.BINTANG MAS | SSD 2TB 860 EVO MZ-76E2T0  |  12  |       Rp4.100.000,- |        Rp49.200.000,- | Storage Tahap pertama                               |
+| PT.BINTANG MAS | SSD 2TB 860 EVO MZ-76E2T0  | 12  |       Rp4.100.000,- |        Rp49.200.000,- | Storage Tahap pertama                               |
 |                |                            |     |         Total Harga |       Rp139.220.000,- |                                                     |
 |                |                            |     |         Pajak  10 % |        Rp13.922.000,- |                                                     |
->>>>>>> 448bc7c70b3d23685677ca72a6c31931579adfbe
 |                |                            |     | Total Ongkir (1 kg) |           Rp500.000,- |                                                     |
 |                |                            |     | ***Total Tagihan*** | ***Rp153.642.000,-*** |                                                     |
 
@@ -78,38 +58,22 @@ Juni 2022
 | PT.BINTANG MAS | SSD 2TB 860 EVO MZ-76E2T0 | 20  |       Rp4.100.000,- |        Rp82.000.000,- | Storage Tahap Kedua ssd 3 Node Storage |
 |                |                           |     |         Total Harga |       Rp143.000.000,- |                                        |
 |                |                           |     |         Pajak  10 % |        Rp14.300.000,- |                                        |
-<<<<<<< HEAD
-|                |                           |     | Total Ongkir (1 kg) |           Rp500.000,- |                                        |
-=======
->>>>>>> 448bc7c70b3d23685677ca72a6c31931579adfbe
 |                |                           |     | ***Total Tagihan*** | ***Rp157.800.000,-*** |                                        |
 
 
 Juli 2022
 | Suplier        | Nama Barang               | Qty |        Harga Satuan |          Total Harga | Keterangan                               |
 | -------------- | ------------------------- | :-: | ------------------: | -------------------: | ---------------------------------------- |
-<<<<<<< HEAD
-| PT.BINTANG MAS | SSD 2TB 860 EVO MZ-76E2T0 | 20  |       Rp4.100.000,- |       Rp82.000.000,- | Memenuhi Storage tahap 1, 3 Node Storage |
-=======
 | PT.BINTANG MAS | SSD 2TB 860 EVO MZ-76E2T0 | 20  |       Rp4.100.000,- |       Rp82.000.000,- | Storage Tahap Ketiga Full 3 Node Storage |
->>>>>>> 448bc7c70b3d23685677ca72a6c31931579adfbe
 |                |                           |     |         Total Harga |       Rp82.000.000,- |                                          |
 |                |                           |     |         Pajak  10 % |        Rp8.200.000,- |                                          |
 |                |                           |     | Total Ongkir (1 kg) |                Rp0,- |                                          |
 |                |                           |     | ***Total Tagihan*** | ***Rp90.200.000,-*** |                                          |
 
-<<<<<<< HEAD
-
-Agustus 2022
-| Suplier        | Nama Barang               | Qty |        Harga Satuan |          Total Harga | Keterangan                               |
-| -------------- | ------------------------- | :-: | ------------------: | -------------------: | ---------------------------------------- |
-| PT.BINTANG MAS | SSD 2TB 860 EVO MZ-76E2T0 | 20  |       Rp4.100.000,- |       Rp82.000.000,- | Memenuhi Storage tahap 2, 3 Node Storage |
-=======
 Agustus 2022
 | Suplier        | Nama Barang               | Qty |        Harga Satuan |          Total Harga | Keterangan                               |
 | -------------- | ------------------------- | :-: | ------------------: | -------------------: | ---------------------------------------- |
 | PT.BINTANG MAS | SSD 2TB 860 EVO MZ-76E2T0 | 20  |       Rp4.100.000,- |       Rp82.000.000,- | Storage Tahap Ketiga Full 3 Node Storage |
->>>>>>> 448bc7c70b3d23685677ca72a6c31931579adfbe
 |                |                           |     |         Total Harga |       Rp82.000.000,- |                                          |
 |                |                           |     |         Pajak  10 % |        Rp8.200.000,- |                                          |
 |                |                           |     | Total Ongkir (1 kg) |                Rp0,- |                                          |
