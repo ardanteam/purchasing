@@ -53,6 +53,7 @@ Maret 2022
 
 
 
+Juni 2022
 | Suplier        | Nama Barang               | Qty |        Harga Satuan |          Total Harga | Keterangan                             |
 | -------------- | ------------------------- | :-: | ------------------: | -------------------: | -------------------------------------- |
 | PT.BINTANG MAS | SSD 2TB 860 EVO MZ-76E2T0 | 10  |       Rp4.100.000,- |       Rp41.000.000,- | Storage Tahap Kedua ssd 3 Node Storage |
