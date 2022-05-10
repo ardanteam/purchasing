@@ -6,9 +6,9 @@
 | PT.IKUBARU | Dell S4810                |  1  |      Rp17.000.000,- |       Rp17.000.000,- | Spare Untuk Switch 10G                         |
 | PT.IKUBARU | Dell s60                  |  1  |       Rp9.000.000,- |        Rp9.000.000,- | Spare Untuk Switch 1G                          |
 |            |                           |     |         Total Harga |       Rp39.000.000,- |                                                |
-|            |                           |     |         Pajak  10 % |        Rp3.900.000,- |                                                |
+|            |                           |     |         Pajak  11 % |        Rp4.290.000,- |                                                |
 |            |                           |     | Total Ongkir (1 kg) |          Rp500.000,- |                                                |
-|            |                           |     | ***Total Tagihan*** | ***Rp43.400.000,-*** |                                                |
+|            |                           |     | ***Total Tagihan*** | ***Rp43.790.000,-*** |                                                |
 
 
 
