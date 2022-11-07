@@ -1,8 +1,8 @@
-**Purchasing Expand Kridosono1 Bulan Januari 2022**
+**Purchasing Expand Spring1 Bulan Januari 2023**
 
 | Suplier        | Nama Barang                      | Qty |        Harga Satuan |           Total Harga | Keterangan                                          |
 | -------------- | -------------------------------- | :-: | ------------------: | --------------------: | --------------------------------------------------- |
-| PT.IKUBARU     | Supermicro Superserver 2u 4 Node |  1  |     Rp189.000.000,- |       Rp189.000.000,- | Tambahan Compute Kridosono dari total 3 compute     |
+| PT.IKUBARU     | Supermicro Superserver 2u 4 Node |  1  |     Rp226.400.000,- |       Rp226.400.000,- | Compute Kedua New Spring dari total 3 compute     |
 | PT.IKUBARU     | Proc E5-2690 v2                  |  4  |       Rp4.500.000,- |        Rp18.000.000,- | Mengganti Prosesor node storage 5 dan node6         |
 | PT.IKUBARU     | Ram 16GB, ddr3, ECC              | 26  |         Rp500.000,- |        Rp13.000.000,- | Menambah Memory Ceph menjadi 208GB per Node Storage |
 | PT.IKUBARU     | AOC-STGN-i2S                     |  2  |       Rp2.000.000,- |         Rp4.000.000,- | Card 10 G per node 1 pcs                            |
