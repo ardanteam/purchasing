@@ -8,7 +8,7 @@
 |            |                                           |     |         Total Harga |        Rp92.400.000,- |                                                          |
 |            |                                           |     |         Pajak  11 % |        Rp10.164.000,- |                                                          |
 |            |                                           |     | Total Ongkir (1 kg) |         Rp1.500.000,- |                                                          |
-|            |                                           |     | ***Total Tagihan*** | ***Rp105.064.000,-*** |                                                          |
+|            |                                           |     | ***Total Tagihan*** | ***Rp104.064.000,-*** |                                                          |
 
 
 **Split Purchasing Upgrade Ram Ceph Sabirin Bulan November 2022**
