@@ -1,18 +1,34 @@
-**Purchasing Expand Spring1 Bulan Januari 2023**
+**Purchasing Expand Spring1 Bulan Mei - Desember 2023**
 
-| Suplier        | Nama Barang                      | Qty |        Harga Satuan |           Total Harga | Keterangan                                          |
-| -------------- | -------------------------------- | :-: | ------------------: | --------------------: | --------------------------------------------------- |
-| PT.IKUBARU     | Supermicro Superserver 2u 4 Node |  1  |     Rp226.400.000,- |       Rp226.400.000,- | Compute Kedua New Spring dari total 3 compute     |
-| PT.IKUBARU     | Proc E5-2690 v2                  |  4  |       Rp4.500.000,- |        Rp18.000.000,- | Mengganti Prosesor node storage 5 dan node6         |
-| PT.IKUBARU     | Ram 16GB, ddr3, ECC              | 26  |         Rp500.000,- |        Rp13.000.000,- | Menambah Memory Ceph menjadi 208GB per Node Storage |
-| PT.IKUBARU     | AOC-STGN-i2S                     |  2  |       Rp2.000.000,- |         Rp4.000.000,- | Card 10 G per node 1 pcs                            |
-| PT.IKUBARU     | Kabel 10G DAC                    |  4  |          R200.000,- |           Rp800.000,- | Kabel 10G per node 2pcs 2Meter (Merk Lokal).        |
-| PT.BINTANG MAS | SSD 1TB 860 EVO MZ-76E1T0        |  4  |       Rp2.180.000,- |         Rp8.720.000,- | Untuk OS Node Storage tanpa raid1, per node 2pcs    |
-| PT.BINTANG MAS | SSD 2TB 860 EVO MZ-76E2T0        | 48  |       Rp4.100.000,- |       Rp196.800.000,- | Untuk Storage Ceph, per node 24 ssd                 |
-|                |                                  |     |         Total Harga |       Rp413.312.000,- |                                                     |
-|                |                                  |     |         Pajak  10 % |        Rp41.331.200,- |                                                     |
-|                |                                  |     | Total Ongkir (1 kg) |           Rp500.000,- |                                                     |
-|                |                                  |     | ***Total Tagihan*** | ***Rp454.951.200,-*** |                                                     |
+| Suplier        | Nama Barang                               | Qty |        Harga Satuan |           Total Harga | Keterangan                                          |
+| -------------- | ----------------------------------------- | :-: | ------------------: | --------------------: | --------------------------------------------------- |
+| PT.IKUBARU     | Supermicro Superserver 2u 4 Node          |  1  |     Rp226.400.000,- |       Rp226.400.000,- | Compute Kedua New Spring dari total 3 compute       |
+| PT.IKUBARU     | Dell R720XD, E5-2650v2 Ram 64GB 2x10GSFP+ |  3  |      Rp20.000.000,- |        Rp60.000.000,- | Untuk 3 node Storage Ceph                           |
+| PT.IKUBARU     | Ram 16GB, ddr3, ECC                       | 27  |         Rp500.000,- |        Rp13.500.000,- | Menambah Memory Ceph menjadi 208GB per Node Storage |
+| PT.IKUBARU     | AOC-STGN-i2S                              |  4  |       Rp2.000.000,- |         Rp8.000.000,- | Card 10 G per node 1 pcs                            |
+| PT.IKUBARU     | Kabel 10G DAC                             | 10  |          R200.000,- |         Rp2.000.000,- | Kabel 10G per node 2pcs 2Meter (Merk Lokal).        |
+| PT.BINTANG MAS | SSD 1TB 860 EVO MZ-76E1T0                 | 10  |       Rp2.180.000,- |        Rp21.800.000,- | Untuk OS Node Storage tanpa raid1, per node 2pcs    |
+| PT.BINTANG MAS | SSD 2TB 860 EVO MZ-76E2T0                 | 72  |       Rp4.100.000,- |       Rp295.200.000,- | Untuk Storage Ceph, per node 24 ssd                 |
+|                |                                           |     |         Total Harga |       Rp626.900.000,- |                                                     |
+|                |                                           |     |         Pajak  11 % |        Rp68.959.000,- |                                                     |
+|                |                                           |     | Total Ongkir (1 kg) |         Rp1.500.000,- |                                                     |
+|                |                                           |     | ***Total Tagihan*** | ***Rp697.359.000,-*** |                                                     |
+
+
+
+**Split Purchasing Monthly**
+**Bulan MEI 2023**
+
+| Suplier    | Nama Barang                               | Qty |        Harga Satuan |          Total Harga | Keterangan                |
+| ---------- | ----------------------------------------- | :-: | ------------------: | -------------------: | ------------------------- |
+| PT.IKUBARU | Dell R720XD, E5-2650v2 Ram 64GB 2x10GSFP+ |  3  |      Rp20.000.000,- |       Rp60.000.000,- | Untuk 3 node Storage Ceph |
+|            |                                           |     |         Total Harga |       Rp60.000.000,- |                           |
+|            |                                           |     |         Pajak  11 % |        Rp6.600.000,- |                           |
+|            |                                           |     | Total Ongkir (1 kg) |          Rp500.000,- |                           |
+|            |                                           |     | ***Total Tagihan*** | ***Rp67.100.000,-*** |                           |
+
+
+
 
 
 
