@@ -28,8 +28,63 @@
 |            |                                           |     | ***Total Tagihan*** | ***Rp67.100.000,-*** |                           |
 
 
+**Bulan JUNI 2023**
+
+| Suplier        | Nama Barang               | Qty |        Harga Satuan |          Total Harga | Keterangan                                          |
+| -------------- | ------------------------- | :-: | ------------------: | -------------------: | --------------------------------------------------- |
+| PT.IKUBARU     | Ram 16GB, ddr3, ECC       | 27  |         Rp500.000,- |       Rp13.500.000,- | Menambah Memory Ceph menjadi 208GB per Node Storage |
+| PT.IKUBARU     | AOC-STGN-i2S              |  4  |       Rp2.000.000,- |        Rp8.000.000,- | Card 10 G per node 1 pcs                            |
+| PT.IKUBARU     | Kabel 10G DAC             | 10  |          R200.000,- |        Rp2.000.000,- | Kabel 10G per node 2pcs 2Meter (Merk Lokal).        |
+| PT.BINTANG MAS | SSD 1TB 860 EVO MZ-76E1T0 | 10  |       Rp2.180.000,- |       Rp21.800.000,- | Untuk OS Node Storage tanpa raid1, per node 2pcs    |
+| PT.BINTANG MAS | SSD 2TB 860 EVO MZ-76E2T0 |  6  |       Rp4.100.000,- |       Rp24.600.000,- | Untuk Storage Ceph, per node 2 ssd                  |
+|                |                           |     |         Total Harga |       Rp69.900.000,- |                                                     |
+|                |                           |     |         Pajak  11 % |        Rp7.689.000,- |                                                     |
+|                |                           |     | Total Ongkir (1 kg) |          Rp500.000,- |                                                     |
+|                |                           |     | ***Total Tagihan*** | ***Rp78.089.000,-*** |                                                     |
 
 
+**Bulan JULI - AGUSTUS 2023**
+
+| Suplier    | Nama Barang                      | Qty |        Harga Satuan |           Total Harga | Keterangan                                    |
+| ---------- | -------------------------------- | :-: | ------------------: | --------------------: | --------------------------------------------- |
+| PT.IKUBARU | Supermicro Superserver 2u 4 Node |  1  |     Rp226.400.000,- |       Rp226.400.000,- | Compute Kedua New Spring dari total 3 compute |
+|            |                                  |     |         Total Harga |       Rp226.400.000,- |                                               |
+|            |                                  |     |         Pajak  11 % |        Rp24.904.000,- |                                               |
+|            |                                  |     | Total Ongkir (1 kg) |           Rp500.000,- |                                               |
+|            |                                  |     | ***Total Tagihan*** | ***Rp251.804.000,-*** |                                               |
+
+
+**Bulan SEPTEMBER 2023**
+
+| Suplier        | Nama Barang               | Qty |        Harga Satuan |           Total Harga | Keterangan                                                        |
+| -------------- | ------------------------- | :-: | ------------------: | --------------------: | ----------------------------------------------------------------- |
+| PT.BINTANG MAS | SSD 2TB 860 EVO MZ-76E2T0 | 22  |       Rp4.100.000,- |        Rp90.200.000,- | Untuk tambahan 3 node storage Ceph, 2 node 7 ssd dan 1 node 8 ssd |
+|                |                           |     |         Total Harga |        Rp90.200.000,- |                                                                   |
+|                |                           |     |         Pajak  11 % |         Rp9.922.000,- |                                                                   |
+|                |                           |     | Total Ongkir (1 kg) |                 Rp0,- |                                                                   |
+|                |                           |     | ***Total Tagihan*** | ***Rp100.122.000,-*** |                                                                   |
+
+
+**Bulan OKTOBER 2023**
+
+| Suplier        | Nama Barang               | Qty |        Harga Satuan |           Total Harga | Keterangan                                                        |
+| -------------- | ------------------------- | :-: | ------------------: | --------------------: | ----------------------------------------------------------------- |
+| PT.BINTANG MAS | SSD 2TB 860 EVO MZ-76E2T0 | 22  |       Rp4.100.000,- |        Rp90.200.000,- | Untuk tambahan 3 node storage Ceph, 2 node 7 ssd dan 1 node 8 ssd |
+|                |                           |     |         Total Harga |        Rp90.200.000,- |                                                                   |
+|                |                           |     |         Pajak  11 % |         Rp9.922.000,- |                                                                   |
+|                |                           |     | Total Ongkir (1 kg) |                 Rp0,- |                                                                   |
+|                |                           |     | ***Total Tagihan*** | ***Rp100.122.000,-*** |                                                                   |
+
+
+**Bulan NOVEMBER 2023**
+
+| Suplier        | Nama Barang               | Qty |        Harga Satuan |           Total Harga | Keterangan                                                        |
+| -------------- | ------------------------- | :-: | ------------------: | --------------------: | ----------------------------------------------------------------- |
+| PT.BINTANG MAS | SSD 2TB 860 EVO MZ-76E2T0 | 22  |       Rp4.100.000,- |        Rp90.200.000,- | Untuk tambahan 3 node storage Ceph, 2 node 7 ssd dan 1 node 8 ssd |
+|                |                           |     |         Total Harga |        Rp90.200.000,- |                                                                   |
+|                |                           |     |         Pajak  11 % |         Rp9.922.000,- |                                                                   |
+|                |                           |     | Total Ongkir (1 kg) |                 Rp0,- |                                                                   |
+|                |                           |     | ***Total Tagihan*** | ***Rp100.122.000,-*** |                                                                   |
 
 
 ***Keterangan :***
