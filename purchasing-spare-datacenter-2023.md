@@ -1,6 +1,6 @@
-| TOTAL PURCHASING SPARE DATACENTER 2023 |                |                                                                                     |        |                   |               |                                                     |
+**TOTAL PURCHASING SPARE DATACENTER 2023**
+| No                                     | Supplier       | Item                                                                                | Jumlah | Harga per pcs     | Total         | Keterangan                   
 | -------------------------------------- | -------------- | ----------------------------------------------------------------------------------- | ------ | ----------------- | ------------- | --------------------------------------------------- |
-| No                                     | Supplier       | Item                                                                                | Jumlah | Harga per pcs     | Total         | Keterangan                                          |
 | 1                                      | PT BINTANG MAS | SSD SATA 1TB Samsung EVO-870 1TB                                                    | 2      | Rp2,180,000       | Rp4,360,000   | Spare SSD Compute (Kridosono, Sabirin, Kotabaru)    |
 | 2                                      | PT BINTANG MAS | SSD SATA 2TB Samsung EVO-870 2TB                                                    | 4      | Rp4,100,000       | Rp16,400,000  | Spare SSD Ceph (Kridosono, Sabirin, Kotabaru)       |
 | 3                                      | TOKOPEDIA      | Lan Tester MT-7051N                                                                 | 1      | Rp70,000          | Rp70,000      | Tool Jakarta                                        |
@@ -37,9 +37,13 @@
 |                                        |                |                                                                                     |        |                   |               |                                                     |
 |                                        |                |                                                                                     |        |                   | Rp278,812,300 |                                                     |
 |                                        |                |                                                                                     |        |                   |               |                                                     |
-| SPLIT PURCHASING MONTHLY               |                |                                                                                     |        |                   |               |                                                     |
-| BULAN JUNI 2023                        |                |                                                                                     |        |                   |               |                                                     |
+
+**Split Purchasing Monthly**
+
+**BULAN JUNI 2023** 
+
 | No                                     | Supplier       | Item                                                                                | Jumlah | Harga per pcs     | Total         | Keterangan                                          |
+| -------------------------------------- | -------------- | ----------------------------------------------------------------------------------- | ------ | ----------------- | ------------- | --------------------------------------------------- |
 | 1                                      | PT BINTANG MAS | SSD SATA 1TB Samsung EVO-870 1TB                                                    | 2      | Rp2,180,000       | Rp4,360,000   | Spare SSD Compute (Kridosono, Sabirin, Kotabaru)    |
 | 2                                      | PT BINTANG MAS | SSD SATA 2TB Samsung EVO-870 2TB                                                    | 4      | Rp4,100,000       | Rp16,400,000  | Spare SSD Ceph (Kridosono, Sabirin, Kotabaru)       |
 | 3                                      | TOKOPEDIA      | Lan Tester MT-7051N                                                                 | 1      | Rp70,000          | Rp70,000      | Tool Jakarta                                        |
@@ -56,9 +60,12 @@
 |                                        |                |                                                                                     |        | Est Ongkir (1 Kg) | Rp500,000     |                                                     |
 |                                        |                |                                                                                     |        | TOTAL Tagihan     | Rp58,364,300  |                                                     |
 |                                        |                |                                                                                     |        |                   |               |                                                     |
-| SPLIT PURCHASING MONTHLY               |                |                                                                                     |        |                   |               |                                                     |
-| BULAN JULI 2023                        |                |                                                                                     |        |                   |               |                                                     |
+
+
+
+**BULAN JULI 2023** 
 | No                                     | Supplier       | Item                                                                                | Jumlah | Harga per pcs     | Total         | Keterangan                                          |
+| -------------------------------------- | -------------- | ----------------------------------------------------------------------------------- | ------ | ----------------- | ------------- | --------------------------------------------------- |
 | 1                                      | PT.IKUBARU     | HDD SATA 4TB ST4000NM0025                                                           | 2      | Rp4,000,000       | Rp8,000,000   | Storage Backup zfs                                  |
 | 2                                      | PT.IKUBARU     | HDD SATA 4TB ST4000NM0035                                                           | 2      | Rp4,000,000       | Rp8,000,000   | Storage Backup zfs                                  |
 | 3                                      | PT.IKUBARU     | HDD SAS 2TB ST2000NM0001                                                            | 2      | Rp3,000,000       | Rp6,000,000   | Storage Backup zfs                                  |
@@ -70,9 +77,12 @@
 |                                        |                |                                                                                     |        | Est Ongkir (1 Kg) | Rp500,000     |                                                     |
 |                                        |                |                                                                                     |        | TOTAL Tagihan     | Rp56,000,000  |                                                     |
 |                                        |                |                                                                                     |        |                   |               |                                                     |
-| SPLIT PURCHASING MONTHLY               |                |                                                                                     |        |                   |               |                                                     |
-| BULAN AGUSTUS 2023                     |                |                                                                                     |        |                   |               |                                                     |
+
+
+
+**BULAN AGUSTUS 2023** 
 | No                                     | Supplier       | Item                                                                                | Jumlah | Harga per pcs     | Total         | Keterangan                                          |
+| -------------------------------------- | -------------- | ----------------------------------------------------------------------------------- | ------ | ----------------- | ------------- | --------------------------------------------------- |
 | 1                                      | PT.IKUBARU     | Switch Dell Force10 S60-44T                                                         | 2      | Rp9,000,000       | Rp18,000,000  | Spare Spring                                        |
 | 2                                      | PT.IKUBARU     | Switch Del Force10 S4810                                                            | 2      | Rp17,000,000      | Rp34,000,000  | Spare Spring                                        |
 |                                        |                | 5dfs.v50ofdkierids5u98ctfdk094kipe3ei205[t4;rler                                    | 4      | Total Harga       | Rp52,000,000  |                                                     |
@@ -81,9 +91,12 @@
 |                                        |                | 5t.,xermjjnygc.;g[                                                                  |        | TOTAL Tagihan     | Rp58,220,000  |                                                     |
 |                                        |                | h'                                                                                  |        |                   |               |                                                     |
 |                                        |                |                                                                                     |        |                   |               |                                                     |
-| SPLIT PURCHASING MONTHLY               |                |                                                                                     |        |                   |               |                                                     |
-| BULAN SEPTEMBER 2023                   |                |                                                                                     |        |                   |               |                                                     |
+
+
+
+**BULAN SEPTEMBER 2023**
 | No                                     | Supplier       | Item                                                                                | Jumlah | Harga per pcs     | Total         | Keterangan                                          |
+| -------------------------------------- | -------------- | ----------------------------------------------------------------------------------- | ------ | ----------------- | ------------- | --------------------------------------------------- |
 | 1                                      | TOKOPEDIA      | Mikrotik CCR1036-8G-2S+                                                             | 1      | Rp22,500,000      | Rp22,500,000  | MIKROTIK Kridosono                                  |
 | 2                                      | PT.IKUBARU     | AOC 10Gbps Card AOC-MTGN-I2S                                                        | 1      | Rp2,350,000       | Rp2,350,000   | Spare Mesin Compute All site                        |
 | 3                                      | PT.IKUBARU     | HBA Card SAS9211-8i                                                                 | 1      | Rp2,650,000       | Rp2,650,000   | Spare Mesin ZFS All site                            |
@@ -94,9 +107,12 @@
 |                                        |                |                                                                                     |        | Est Ongkir (1 Kg) | Rp500,000     |                                                     |
 |                                        |                |                                                                                     |        | TOTAL Tagihan     | Rp54,335,000  |                                                     |
 |                                        |                |                                                                                     |        |                   |               |                                                     |
-| SPLIT PURCHASING MONTHLY               |                |                                                                                     |        |                   |               |                                                     |
-| BULAN OKTOBER 2023                     |                |                                                                                     |        |                   |               |                                                     |
+
+
+
+**BULAN OKTOBER 2023**
 | No                                     | Supplier       | Item                                                                                | Jumlah | Harga per pcs     | Total         | Keterangan                                          |
+| -------------------------------------- | -------------- | ----------------------------------------------------------------------------------- | ------ | ----------------- | ------------- | --------------------------------------------------- |
 | 1                                      | PT.IKUBARU     | Supermicro Singleblade X10DRT-PS-LC009                                              | 1      | Rp16,500,000      | Rp16,500,000  | Compute Blade SuperServer Sabirin                   |
 | 2                                      | PT.IKUBARU     | Supermicro SBI-7127R-S6 ( B9DR7 )                                                   | 1      | Rp9,000,000       | Rp9,000,000   | Single Blade Supermicro Kotabaru                    |
 | 3                                      | PT.IKUBARU     | Supermicro Singleblade SBI-7426T-S3 ( B8DT6/E )                                     | 1      | Rp19,500,000      | Rp19,500,000  | Single Blade Supermicro Sabirin                     |
