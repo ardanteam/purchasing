@@ -33,9 +33,9 @@
 | 28 | PT.IKUBARU     | Prosesor E5-2630 v1 Intel(R) Xeon(R) CPU E5-2630 0 @ 2.30GHz Cores: 6 Threads: 12   |   2   |         Rp300,000 |     Rp600,000 | Compute Blade Supermicro Kotabaru                   |
 | 29 | PT.IKUBARU     | Prosesor X3470 Intel(R) Xeon(R) CPU X3470 @ 2.93GHz Cores: 4 Threads: 8             |   2   |         Rp350,000 |     Rp700,000 | ZFS Sabirin                                         |
 |    |                |                                                                                     |   59   |       Total Harga | Rp253,290,000 |                                                     |
-|    |                |                                                                                     |       |         Pajak 11% |  Rp27,861,300 |                                                     |
+|    |                |                                                                                     |       |         Pajak 11% |  Rp27,861,900 |                                                     |
 |    |                |                                                                                     |       | Est Ongkir (5 Kg) |   Rp2,500,000 |                                                     |
-|    |                |                                                                                     |       |     TOTAL Tagihan | Rp283,651,300 |                                                     |
+|    |                |                                                                                     |       |     TOTAL Tagihan | Rp283,651,900 |                                                     |
 
 **Split Purchasing Monthly**
 
