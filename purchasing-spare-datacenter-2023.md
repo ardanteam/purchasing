@@ -3,7 +3,7 @@
 
 | No | Supplier       | Item                                                                                | Jumlah |     Harga per pcs |         Total | Keterangan                                          |
 | ---- | ---------------- | ------------------------------------------------------------------------------------- | :------: | ------------------: | --------------: | ----------------------------------------------------- |
-| 1  | PT BINTANG MAS | SSD SATA 1TB Samsung EVO-870 1TB                                                    |   2   |       Rp2,180,000 |   Rp4,360,000 | Spare SSD Compute (Kridosono, Sabirin, Kotabaru)    |
+| 1  | PT BINTANG MAS | SSD SATA 1TB Samsung EVO-870 1TB                                                    |   4   |       Rp2,180,000 |   Rp8,720,000 | Spare SSD Compute (Kridosono, Sabirin, Kotabaru)    |
 | 2  | PT BINTANG MAS | SSD SATA 2TB Samsung EVO-870 2TB                                                    |   4   |       Rp4,100,000 |  Rp16,400,000 | Spare SSD Ceph (Kridosono, Sabirin, Kotabaru)       |
 | 3  | TOKOPEDIA      | Lan Tester MT-7051N                                                                 |   1   |          Rp70,000 |      Rp70,000 | Tool Jakarta                                        |
 | 4  | TOKOPEDIA      | Multi Tester ZT-102                                                                 |   2   |         Rp300,000 |     Rp600,000 | Tool Jakarta                                        |
@@ -32,10 +32,10 @@
 | 27 | PT.IKUBARU     | Supermicro Singleblade SBI-7426T-S3 ( B8DT6/E )                                     |   1   |      Rp19,500,000 |  Rp19,500,000 | Single Blade Supermicro Sabirin                     |
 | 28 | PT.IKUBARU     | Prosesor E5-2630 v1 Intel(R) Xeon(R) CPU E5-2630 0 @ 2.30GHz Cores: 6 Threads: 12   |   2   |         Rp300,000 |     Rp600,000 | Compute Blade Supermicro Kotabaru                   |
 | 29 | PT.IKUBARU     | Prosesor X3470 Intel(R) Xeon(R) CPU X3470 @ 2.93GHz Cores: 4 Threads: 8             |   2   |         Rp350,000 |     Rp700,000 | ZFS Sabirin                                         |
-|    |                |                                                                                     |   59   |       Total Harga | Rp248,930,000 |                                                     |
-|    |                |                                                                                     |       |         Pajak 11% |  Rp27,382,300 |                                                     |
+|    |                |                                                                                     |   59   |       Total Harga | Rp253,290,000 |                                                     |
+|    |                |                                                                                     |       |         Pajak 11% |  Rp27,861,300 |                                                     |
 |    |                |                                                                                     |       | Est Ongkir (5 Kg) |   Rp2,500,000 |                                                     |
-|    |                |                                                                                     |       |     TOTAL Tagihan | Rp278,812,300 |                                                     |
+|    |                |                                                                                     |       |     TOTAL Tagihan | Rp283,651,300 |                                                     |
 
 **Split Purchasing Monthly**
 
@@ -44,7 +44,7 @@
 
 | No | Supplier       | Item                                                                          | Jumlah |     Harga per pcs |        Total | Keterangan                                          |
 | ---- | ---------------- | ------------------------------------------------------------------------------- | :------: | ------------------: | -------------: | ----------------------------------------------------- |
-| 1  | PT BINTANG MAS | SSD SATA 1TB Samsung EVO-870 1TB                                              |   2   |       Rp2,180,000 |  Rp4,360,000 | Spare SSD Compute (Kridosono, Sabirin, Kotabaru)    |
+| 1  | PT BINTANG MAS | SSD SATA 1TB Samsung EVO-870 1TB                                              |   4   |       Rp2,180,000 |  Rp8,720,000 | Spare SSD Compute (Kridosono, Sabirin, Kotabaru)    |
 | 2  | PT BINTANG MAS | SSD SATA 2TB Samsung EVO-870 2TB                                              |   4   |       Rp4,100,000 | Rp16,400,000 | Spare SSD Ceph (Kridosono, Sabirin, Kotabaru)       |
 | 3  | TOKOPEDIA      | Lan Tester MT-7051N                                                           |   1   |          Rp70,000 |     Rp70,000 | Tool Jakarta                                        |
 | 4  | TOKOPEDIA      | Multi Tester ZT-102                                                           |   2   |         Rp300,000 |    Rp600,000 | Tool Jakarta                                        |
@@ -55,10 +55,10 @@
 | 9  | PT.IKUBARU     | Hynix 16GB 4Rx4 PC3-8500 1066Mhz HMT42GR7BMR4A                                |   4   |         Rp850,000 |  Rp3,400,000 | RAM Mesin Ceph Spring, Sabirin, Kotabaru, Kridosono |
 | 10 | PT.IKUBARU     | Samsung 16GB 2Rx4 PC3L-12800R DDR3-1600 1.35 ECC Low Profile M392B2G70DM0-YK0 |   4   |         Rp975,000 |  Rp3,900,000 | RAM Node Compute Blade Supermicro Sabirin           |
 | 11 | PT.IKUBARU     | Hynix 32GB 2Rx4 PC4-2400T-RBB-10                                              |   4   |       Rp1,600,000 |  Rp6,400,000 | RAM Node Compute Superserver All Site               |
-|    |                |                                                                               |   31   |       Total Harga | Rp52,130,000 |                                                     |
-|    |                |                                                                               |       |         Pajak 11% |  Rp5,734,300 |                                                     |
+|    |                |                                                                               |   31   |       Total Harga | Rp56,490,000 |                                                     |
+|    |                |                                                                               |       |         Pajak 11% |  Rp6,213,900 |                                                     |
 |    |                |                                                                               |       | Est Ongkir (1 Kg) |    Rp500,000 |                                                     |
-|    |                |                                                                               |       |     TOTAL Tagihan | Rp58,364,300 |                                                     |
+|    |                |                                                                               |       |     TOTAL Tagihan | Rp63,203,900 |                                                     |
 
 **BULAN JULI 2023** 
 
