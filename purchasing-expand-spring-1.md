@@ -29,7 +29,7 @@
 |            |                                           |     | ***Total Tagihan*** | ***Rp67.100.000,-*** |                           |
 
 
-**Bulan SEPTEMBER 2023**
+**Bulan AGUSTUS-SEPTEMBER-OKTOBER 2023**
 | Suplier    | Nama Barang                      | Qty |        Harga Satuan |           Total Harga | Keterangan                                    |
 | ---------- | -------------------------------- | :-: | ------------------: | --------------------: | --------------------------------------------- |
 | PT.IKUBARU | Supermicro Superserver 2u 4 Node |  1  |     Rp226.400.000,- |       Rp226.400.000,- | Compute Kedua New Spring dari total 3 compute |
@@ -38,7 +38,7 @@
 |            |                                  |     | Total Ongkir (1 kg) |           Rp500.000,- |                                               |
 |            |                                  |     | ***Total Tagihan*** | ***Rp251.804.000,-*** |                                               |
 
-**Bulan OKTOBER 2023**
+**Bulan NOVEMBER 2023**
 | Suplier        | Nama Barang                      | Qty |        Harga Satuan |          Total Harga | Keterangan                                          |
 | -------------- | -------------------------------- | :-: | ------------------: | -------------------: | --------------------------------------------------- |
 | PT.IKUBARU     | Ram 16GB, ddr3, ECC              | 27  |         Rp500.000,- |       Rp13.500.000,- | Menambah Memory Ceph menjadi 208GB per Node Storage |
